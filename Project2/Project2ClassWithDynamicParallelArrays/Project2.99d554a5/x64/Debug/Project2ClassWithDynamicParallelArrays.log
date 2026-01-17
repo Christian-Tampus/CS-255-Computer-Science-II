@@ -1,0 +1,5 @@
+﻿  Stumap.cpp
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project2\Stumap.cpp(383,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project2\Stumap.cpp(384,32): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project2\Stumap.cpp(552,19): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Project2ClassWithDynamicParallelArrays.vcxproj -> C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project2\Project2ClassWithDynamicParallelArrays\x64\Debug\Project2ClassWithDynamicParallelArrays.exe
