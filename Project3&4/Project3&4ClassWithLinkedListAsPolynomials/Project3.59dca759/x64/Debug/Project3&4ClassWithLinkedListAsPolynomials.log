@@ -1,0 +1,4 @@
+﻿  Driver.cpp
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project3&4\Project3&4ClassWithLinkedListAsPolynomials\Driver.cpp(364,38): warning C4101: 'INVALID_ARGUMENT_ERROR': unreferenced local variable
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project3&4\Project3&4ClassWithLinkedListAsPolynomials\Driver.cpp(367,34): warning C4101: 'OUT_OF_RANGE_ERROR': unreferenced local variable
+  Project3&4ClassWithLinkedListAsPolynomials.vcxproj -> C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project3&4\Project3&4ClassWithLinkedListAsPolynomials\x64\Debug\Project3&4ClassWithLinkedListAsPolynomials.exe
