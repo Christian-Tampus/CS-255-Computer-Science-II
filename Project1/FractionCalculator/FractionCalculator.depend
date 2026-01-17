@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1726867102 source:c:\users\chem_\onedrive\desktop\una\cs_255 computer science ii\project1\fractioncalculator\fraction.cpp
+	"Fraction.h"
+
+1726867079 c:\users\chem_\onedrive\desktop\una\cs_255 computer science ii\project1\fractioncalculator\fraction.h
+	<iostream>
+
+1727150434 source:c:\users\chem_\onedrive\desktop\una\cs_255 computer science ii\project1\fractioncalculator\tampuschristian-255-p1.cpp
+	<iostream>
+	<string>
+	<vector>
+	<set>
+	<algorithm>
+	"Fraction.h"
+
