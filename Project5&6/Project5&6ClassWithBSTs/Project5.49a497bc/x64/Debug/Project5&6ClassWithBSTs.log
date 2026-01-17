@@ -1,0 +1,11 @@
+﻿  BST.cpp
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project5&6\Project5&6ClassWithBSTs\BST.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TampusChristian_255_P6.cpp
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project5&6\Project5&6ClassWithBSTs\TampusChristian_255_P6.cpp(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project5&6\Project5&6ClassWithBSTs\TampusChristian_255_P6.cpp(177,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project5&6\Project5&6ClassWithBSTs\TampusChristian_255_P6.cpp(178,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project5&6\Project5&6ClassWithBSTs\TampusChristian_255_P6.cpp(179,36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project5&6\Project5&6ClassWithBSTs\TampusChristian_255_P6.cpp(49,1): warning C4715: 'BSTInfo::operator[]': not all control paths return a value
+C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project5&6\Project5&6ClassWithBSTs\BST.cpp(414,1): warning C4715: 'BST::SearchDFS': not all control paths return a value
+  Project5&6ClassWithBSTs.vcxproj -> C:\Users\chem_\OneDrive\Desktop\UNA\CS_255 Computer Science II\Project5&6\Project5&6ClassWithBSTs\x64\Debug\Project5&6ClassWithBSTs.exe
