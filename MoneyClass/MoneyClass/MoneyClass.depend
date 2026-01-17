@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1727326649 source:c:\users\chem_\onedrive\desktop\una\cs_255 computer science ii\moneyclass\moneyclass\money.cpp
+	"Money.h"
+
+1727325833 c:\users\chem_\onedrive\desktop\una\cs_255 computer science ii\moneyclass\moneyclass\money.h
+	<iostream>
+
+1727326154 source:c:\users\chem_\onedrive\desktop\una\cs_255 computer science ii\moneyclass\moneyclass\driver.cpp
+	<iostream>
+	"Money.h"
+
